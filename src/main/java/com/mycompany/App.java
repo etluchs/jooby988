@@ -5,6 +5,7 @@ import org.jooby.Jooby;
 
 /**
  * @author jooby generator
+ _das_ check ich gleich ein.
  */
 public class App extends Jooby {
 
